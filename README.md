@@ -8,6 +8,5 @@
     <li>sampling.py是一个测试脚本，里面是零零散散的测试语句，主要是测试截图识别是否准确，如果不准确需要调整参数和重新训练模型</li>
     <li>Data.mat是已经训练好的模型</li>
     <li>Game.py是主程序在参数模型没有问题的情况下直接运行</li>
-    <li>Neural_network.py是2层的BP神经网络模型/li>
     <li>Good luck</li>
 </ul>
