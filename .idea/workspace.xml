@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5822e1ae-f517-49ad-81f9-3fd57a72d647" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,8 +44,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="228">
-                <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <first_editor relative-caret-position="190">
+                <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
               </first_editor>
               <second_editor />
             </state>
@@ -254,15 +252,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49320388" visible="true" weight="0.18756586" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49320388" visible="true" weight="0.18756586" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32979977" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50437635" side_tool="true" weight="0.15632184" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49562362" weight="0.37299034" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.28486294" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.42979637" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.42979637" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3954984" />
       <window_info id="Favorites" order="2" sideWeight="0.5067961" side_tool="true" weight="0.24611974" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -679,8 +678,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="228">
-            <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <first_editor relative-caret-position="190">
+            <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
           </first_editor>
           <second_editor />
         </state>
